@@ -4,7 +4,8 @@
 .NET libcheck is a quick command-line tool for helping track down .NET assembly 
 compatibility issues. 
 
-    System.IO.FileLoadException: Could not load file or assembly {0} or one of its dependencies. The located assembly's manifest definition does not match the assembly reference.
+    System.IO.FileLoadException: Could not load file or assembly {0} or one of its dependencies. 
+    The located assembly's manifest definition does not match the assembly reference.
 
 If you've ever seen this error before, you need libcheck!
 
