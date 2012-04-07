@@ -24,6 +24,10 @@ you are interested in.
 libcheck.exe C:\dev\yourapp\lib *NHibernate* *Castle*
 ```
 
+And it will give you a report like this:
+
+![Libcheck](http://richarddingwall.name/wp-content/uploads/2010/05/libcheck.gif)
+
 ### What does it check for?
 
 Libcheck issues warnings for:
