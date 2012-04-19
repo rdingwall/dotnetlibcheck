@@ -9,7 +9,7 @@ compatibility issues.
 
 If you've ever seen this error before, you need libcheck!
 
-h4. How to use
+### How to use
 
 To use, simply point libcheck at a directory of assemblies. 
 
@@ -24,7 +24,11 @@ you are interested in.
 libcheck.exe C:\dev\yourapp\lib *NHibernate* *Castle*
 ```
 
-h4. What does it check for?
+And it will give you a report like this:
+
+![Libcheck](http://richarddingwall.name/wp-content/uploads/2010/05/libcheck.gif)
+
+### What does it check for?
 
 Libcheck issues warnings for:
 
